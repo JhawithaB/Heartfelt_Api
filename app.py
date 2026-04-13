@@ -24,9 +24,9 @@ heart_questions = [
     {"question":"If money were no object, what would you do with your life?"},
     {"question":"If you could relive one day of your life, which day would it be and why?"},
     {"question":"What is a moment in your life that truly humbled you?"},
-    {"If you could erase just one memory, what would it be and why?"},
-    {"What reminds you that you are not alone?"},
-    {"If your life suddenly stopped today, what would you regret not doing or saying?"}
+    {"question":"If you could erase just one memory, what would it be and why?"},
+    {"question":"What reminds you that you are not alone?"},
+    {"question":"If your life suddenly stopped today, what would you regret not doing or saying?"}
 ]
 
 @app.route("/")
